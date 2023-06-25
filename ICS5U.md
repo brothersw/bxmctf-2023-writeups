@@ -1,5 +1,5 @@
 # ICS5U
-## REV 2 - Author: Ryzon
+## REV 2 - Author: Ryzon - Writeup by: brosu
 ## Description
 
 ## First look
